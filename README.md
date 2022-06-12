@@ -84,7 +84,7 @@ The sample population of manufacturing lots as a whole has a suspension coil PSI
 
 Although we failed to reject the null hypothesis of the all manufacturing lots since the p-value is 0.06, which is higher than the common significance level of 0.05, when we look into the 3 Lots separately, Lot 3 does not meet our significance level, thus it should be rejected.
 
-### MechaChar vs Competition
+### MechaCar vs Competition
 
 It would be interesting to perform a statistical study on maintenance costs comparing MerchaCar vs competitors.
 
